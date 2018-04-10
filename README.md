@@ -60,8 +60,7 @@ rectangle 图书管理 {
     :退出;
     stop;
     @enduml
-    ```
+ ```   
 **“购入图书”用例流程图源码如下：**
 
-![](test2_2.jpg)
-```
+![test2_2](test2_2.png)
