@@ -27,7 +27,7 @@ rectangle 图书管理 {
 
 
 ### 1.2. 用例图如下：
-![ test2_1](test2_1.png)
+![test2_1](test2_1.png)
 **“借书”用例流程图源码如下：**
 ```
 @startuml
@@ -63,4 +63,4 @@ rectangle 图书管理 {
 
 **“购入图书”用例流程图源码如下：**
 ```
-![ test2_2]( test2_2.jpg)
+![test2_2](test2_2.jpg)
