@@ -5,6 +5,7 @@
 ## 1. 图书管理系统的用例关系图
 
 ### 1.1 用例图PlantUML源码如下：
+```
 @startuml
 left to right direction
 skinparam packageStyle rectangle
@@ -28,6 +29,7 @@ rectangle 图书管理 {
 ### 1.2. 用例图如下：
 ![ test2_1](test2_1.png)
 **“借书”用例流程图源码如下：**
+```
 @startuml
     
     start;
