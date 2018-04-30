@@ -49,7 +49,7 @@ deactivate 读者
 
 ### 1.1. 时序图如下：
 
-![class](test4_1.png)
+![class](testone.png)
 
 ## 2 还书时序图源码如下：
 
@@ -91,6 +91,6 @@ deactivate 图书管理员
 ```
 ### 2.1. 时序图如下：
 
-![class](test4_2.png)
+![class](../testtwo.jpg)
 
 
