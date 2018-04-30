@@ -91,6 +91,6 @@ deactivate 图书管理员
 ```
 ### 2.1. 时序图如下：
 
-![class](../testtwo.jpg)
+![class](../testtwo.png)
 
 
