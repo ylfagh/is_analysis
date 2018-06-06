@@ -18,7 +18,7 @@
 ![](系统总体结构.png)
     
 ## 3. 用例图设计 [源码](src/UseCase.puml)
-![](UseCase.png)
+![](基于GitHub的实验管理平台--用例图.png)
 
 ## 4. 类图设计 [源码](src/class.puml)
 ![](./class.png)
