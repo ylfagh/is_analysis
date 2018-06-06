@@ -16,8 +16,6 @@
     
 ## 2. 系统总体结构
 ![](系统总体结构.png)
-
-界面设计参见：https://zwdbox.github.io/is_analysis/test6/index.html
     
 ## 3. 用例图设计 [源码](src/UseCase.puml)
 ![](UseCase.png)
