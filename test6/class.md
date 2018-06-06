@@ -1,41 +1,42 @@
+```class
 @startuml
-title »ùÓÚGitHubµÄÊµÑé¹ÜÀíÆ½Ì¨--ÀàÍ¼
+title åŸºäºGitHubçš„å®éªŒç®¡ç†å¹³å°--ç±»å›¾
 class CLASS{
-    CLASS_ID(¿Î³Ì±àºÅ)
-    CLASS__NAME(¿Î³ÌÃû³Æ)
+    CLASS_ID(è¯¾ç¨‹ç¼–å·)
+    CLASS__NAME(è¯¾ç¨‹åç§°)
 }
 class users {
-    <b>user_id</b> £¨ÓÃ»§ID£©
-    name £¨ÓÃ»§ÕæÊµĞÕÃû£©
-    github_username £¨ÓÃ»§GitHubÕËºÅ£©
-    update_date £¨ÓÃ»§GitHubÕËºÅĞŞ¸ÄÈÕÆÚ£©
-    password £¨ÓÃ»§ÃÜÂë£©
-    disable £¨ÓÃ»§ÊÇ·ñ½ûÓÃ£©
-    CLASS_IDS(ËùÑ¡¿Î³Ì±àºÅ¼¯ºÏ)
+    <b>user_id</b> ï¼ˆç”¨æˆ·IDï¼‰
+    name ï¼ˆç”¨æˆ·çœŸå®å§“åï¼‰
+    github_username ï¼ˆç”¨æˆ·GitHubè´¦å·ï¼‰
+    update_date ï¼ˆç”¨æˆ·GitHubè´¦å·ä¿®æ”¹æ—¥æœŸï¼‰
+    password ï¼ˆç”¨æˆ·å¯†ç ï¼‰
+    disable ï¼ˆç”¨æˆ·æ˜¯å¦ç¦ç”¨ï¼‰
+    CLASS_IDS(æ‰€é€‰è¯¾ç¨‹ç¼–å·é›†åˆ)
 }
 class teachers{
-    <b>teacher_id</b> £¨ÀÏÊ¦¹¤ºÅ£©
-    department £¨ÀÏÊ¦ËùÊô²¿ÃÅ£©
+    <b>teacher_id</b> ï¼ˆè€å¸ˆå·¥å·ï¼‰
+    department ï¼ˆè€å¸ˆæ‰€å±éƒ¨é—¨ï¼‰
 }
 class students{
-    <b>student_id</b> £¨Ñ§ºÅ£©
-    class £¨°à¼¶£©
-    result_sum£¨³É¼¨»ã×Ü£©
-    web_sum £¨ÍøÕ¾ÕıÈ·Óë·ñ»ã×Ü£©
+    <b>student_id</b> ï¼ˆå­¦å·ï¼‰
+    class ï¼ˆç­çº§ï¼‰
+    result_sumï¼ˆæˆç»©æ±‡æ€»ï¼‰
+    web_sum ï¼ˆç½‘ç«™æ­£ç¡®ä¸å¦æ±‡æ€»ï¼‰
 }
 class grades {
-    <b>student_id</b> £¨Ñ§ºÅ£©
-    <b>test_id</b> £¨ÊµÑé±àºÅ£©
-    result £¨¸ÃÊµÑé×Ü·ÖÊı£©
-    code (´úÂëÆÀ·Ö)
-    improve£¨´úÂë¸Ä½øµÃ·Ö£©
-    report(ÊµÑé±¨¸æµÃ·Ö)
-    update_date £¨ÆÀ¸ÄÈÕÆÚ£©
+    <b>student_id</b> ï¼ˆå­¦å·ï¼‰
+    <b>test_id</b> ï¼ˆå®éªŒç¼–å·ï¼‰
+    result ï¼ˆè¯¥å®éªŒæ€»åˆ†æ•°ï¼‰
+    code (ä»£ç è¯„åˆ†)
+    improveï¼ˆä»£ç æ”¹è¿›å¾—åˆ†ï¼‰
+    report(å®éªŒæŠ¥å‘Šå¾—åˆ†)
+    update_date ï¼ˆè¯„æ”¹æ—¥æœŸï¼‰
 }
 
 class tests {
-    <b>test_id</b> £¨ÊµÑé±àºÅ£©
-    title (ÊµÑéÃû³Æ)
+    <b>test_id</b> ï¼ˆå®éªŒç¼–å·ï¼‰
+    title (å®éªŒåç§°)
 }
 CLASS <|- tests
 users <|- students
@@ -47,3 +48,4 @@ tests "1" -- "n"  grades
 
 
 @enduml
+```
