@@ -27,7 +27,7 @@
 - ### [参见数据库设计](数据库实现.md)
 
 ## 6. 用例及界面详细设计
-- ### [“学生信息”用例](学生信息用例.md)，[界面](https://github.com/ylfagh/is_analysis/blob/master/test6/index.html)
+- ### [“学生信息”用例](学生信息用例.md)，[界面](https://ylfagh.github.io/is_analysis/test6/index.html)
 - ### [“评定成绩”用例及界面](评定成绩用例.md)
 - ### [“查看成绩”用例及界面](查看成绩用例.md)
 - ### [“修改密码”用例及界面](修改密码用例.md)
