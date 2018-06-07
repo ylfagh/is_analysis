@@ -1,4 +1,4 @@
-# 接口：getUserInfo  [返回](../README.md)
+# 接口：getUserInfo  [返回](README.md)
 用例： [查看用户信息](查看用户信息用例.md),[修改用户信息](修改用户信息用例.md)
 
 - 功能：
