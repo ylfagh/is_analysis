@@ -1,0 +1,10 @@
+@startuml
+title 基于GitHub的实验管理平台--评定成绩用例的顺序图
+actor teachers
+== 评定成绩 ==
+teachers ->CLASS:选择课程
+CLASS -> students : 显示选择该课程的学生
+students -> grades
+grades -> tests:评定该课程实验不同方面的评分
+tests --> teachers:每个实验的信息、成绩
+@enduml
