@@ -36,7 +36,9 @@
                 "test_id":1,
                 "web_exists": true, 
                 "result": 91, 
-                "memo":"本实验做得好",
+                "code":31,
+                "improve",30,
+                "import",30,
                 "update_date": "2018-04-02 13:48:01"
                 }, 
                 {
@@ -61,5 +63,7 @@
   |test_id|实验编号|
   |web_exists|本实验的GitHub网页是否存在|
   |result|本实验成绩，可以为空，为空表示没有批改，没有批改的实验不入平均成绩，为0分则要计入平均成绩，所以成绩为空和为0是不一样的。|
-  |memo|本实验老师的评价，可以为空|
+  |code|实验代码评分|
+  |improve|实验改进|
+  |import|实验报告评分|
   |update_date|本实验老师的批改日期，可以为空|
