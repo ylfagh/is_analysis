@@ -1,4 +1,4 @@
-# 接口：login  [返回](../README.md)
+# 接口：login  [返回](README.md)
 用例： [登录](../用例/登录.md)
 
 - 功能：
