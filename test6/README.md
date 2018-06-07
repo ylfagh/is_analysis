@@ -28,10 +28,11 @@
 
 ## 6. 用例及界面详细设计
 - ### [“学生信息”用例](学生信息用例.md)，[界面](https://ylfagh.github.io/is_analysis/test6/index.html)
-- ### [“评定成绩”用例及界面](评定成绩用例.md)
-- ### [“查看成绩”用例及界面](查看成绩用例.md)
-- ### [“修改密码”用例及界面](修改密码用例.md)
-- ### [“修改用户信息”用例及界面](修改用户信息用例.md)
-- ### [“查看用户信息”用例及界面](查看用户信息用例.md)
-- ### [“登出”用例及界面](登出用例.md)
-- ### [“登录”用例及界面](登录用例.md)
+- ### [“评定成绩”用例](评定成绩用例.md)，[界面](https://ylfagh.github.io/is_analysis/test6/评定成绩.html)
+- ### [“查看成绩”用例及界面](查看成绩用例.md)，[界面](https://ylfagh.github.io/is_analysis/test6/查看成绩.html)
+- ### [“修改密码”用例及界面](修改密码用例.md)，[界面](https://ylfagh.github.io/is_analysis/test6/修改密码.html)
+- ### [“修改用户信息”用例及界面](修改用户信息用例.md)，[界面](https://ylfagh.github.io/is_analysis/test6/修改信息.html)
+- ### [“查看用户信息”用例及界面](查看用户信息用例.md)，[界面](https://ylfagh.github.io/is_analysis/test6/查看信息.html)
+- ### [“登出”用例及界面](登出用例.md)，[界面](https://ylfagh.github.io/is_analysis/test6/评定成绩.html)
+- ### [“登录”用例及界面](登录用例.md)，[界面](https://ylfagh.github.io/is_analysis/test6/登录.html)
+  
