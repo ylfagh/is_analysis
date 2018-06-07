@@ -1,0 +1,6 @@
+@startuml
+title 基于GitHub的实验管理平台--登录用例的顺序图
+actor users
+users ->USERS: 输入用户账号密码
+USERS ---->users: 登录
+@enduml
