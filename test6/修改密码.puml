@@ -1,0 +1,7 @@
+@startuml
+title 基于GitHub的实验管理平台--修改密码用例的顺序图
+actor users
+users ->USERS: 用户选择修改密码
+USERS ->USERS: 两次输入密码确定后更改密码
+USERS ---->users: 密码更改再次登录
+@enduml
